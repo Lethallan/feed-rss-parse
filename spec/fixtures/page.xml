@@ -1,0 +1,390 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Все публикации подряд</title>
+    <link>https://habr.com/ru/all/</link>
+    <description><![CDATA[Все публикации подряд на Хабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Tue, 01 Nov 2022 00:02:08 GMT</pubDate>
+
+    <image>
+      <link>https://habr.com/ru/</link>
+      <url>https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png</url>
+      <title>Хабр</title>
+    </image>
+
+    <item>
+      <title><![CDATA[Как сделать свой собственный менеджер состояния в React всего с одним хуком]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696660/</guid>
+      <link>https://habr.com/ru/post/696660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696660</link>
+      <description><![CDATA[<p>Представьте задачу, что вам нужно изменять состояние однотипных компонентов, затрагивающих только один из них. Нечто очень похожее можно реализовать с использованием контекста React. Но в этом случае мы рискуем получить повторный рендер на всех потребителях контекста, что не очень хорошо, если таких потребителей на странице одновременно довольно много.</p><p>В этой заметке я постараюсь разобрать решение, которое позволяет изменять состояние только тех потребителей, которые необходимо изменить. Причем такое поведение будет обеспечено всего одним хуком.</p><p></p> <a href="https://habr.com/ru/post/696660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696660#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 23:21:10 GMT</pubDate>
+      <dc:creator>mordorhell</dc:creator>
+      <category><![CDATA[ReactJS]]></category><category><![CDATA[TypeScript]]></category>
+      <category><![CDATA[Менеджер состояний]]></category><category><![CDATA[react]]></category><category><![CDATA[type]]></category><category><![CDATA[хук]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Туториал: Frontity — настройка авторизации для приватных эндпоинтов WordPress]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696650/</guid>
+      <link>https://habr.com/ru/post/696650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696650</link>
+      <description><![CDATA[<p><strong>Предисловие</strong></p><p>Этот туториал предназначен в первую очередь для новичков в разработке на Frontity (React&nbsp;framework для WordPress)</p><p><strong>Основная цель</strong></p><p>Собрать в одном месте необходимую информацию для настройки авторизации для приватных эндпоинтов WordPress на примере получения коллекции меню</p><p></p> <a href="https://habr.com/ru/post/696650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696650#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 21:50:09 GMT</pubDate>
+      <dc:creator>kas_elvirov</dc:creator>
+      <category><![CDATA[WordPress]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[ReactJS]]></category>
+      <category><![CDATA[wordpress]]></category><category><![CDATA[react]]></category><category><![CDATA[frontity]]></category><category><![CDATA[jwt]]></category><category><![CDATA[javascript]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Недельный геймдев: #93 — 30 октября, 2022]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696656/</guid>
+      <link>https://habr.com/ru/post/696656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696656</link>
+      <description><![CDATA[<p>Из <a href="https://suvitruf.ru/2022/10/31/12832/weekly-gamedev-93-30-october-2022/" rel="noopener noreferrer nofollow">новостей</a>: в Steam изменится отображение дат выхода игр, фанаты  декомпилировали исходный код Deus Ex: Human Revolution, Valve обновила  рекомендованные региональные цены в Steam.</p><p>Из интересностей: аналитический пост про медианное время прохождения  демок, как написать книгу и не свихнуться, архитектура Wii U, Godot за  100 секунд, рецепт хита Cult of the Lamb.</p> <a href="https://habr.com/ru/post/696656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696656#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 21:36:13 GMT</pubDate>
+      <dc:creator>Suvitruf</dc:creator>
+      <category><![CDATA[Разработка игр]]></category>
+      <category><![CDATA[gamedev]]></category><category><![CDATA[gamedevnews]]></category><category><![CDATA[новости]]></category><category><![CDATA[разработка игр]]></category><category><![CDATA[дайджест]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Как мои проблемы с памятью привели к созданию синтаксиса, который невозможно забыть]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696654/</guid>
+      <link>https://habr.com/ru/post/696654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696654</link>
+      <description><![CDATA[Около 10 лет назад у меня начались серьёзные проблемы в ментальной сфере, в том числе с памятью {впрочем, в этом есть и свои плюсы: например негативные эмоции <font color="#BFBFBF">[</font><font color="gray">злость на кого-то, раздражение, обида</font><font color="#BFBFBF">]</font> забываются так быстро, что практически полностью перестали меня беспокоить}. Я просто физически перестал понимать всякие сложные штуки вроде графических API или каких-то объёмных библиотек, а при выполнении рабочих задач столкнулся с такой проблемой что к концу прочтения текста какой-нибудь не самой короткой задачи я забывал начало этой задачи (так что мне приходилось перечитывать условие задачи много раз чтобы хоть как-то запомнить его).<br>
+<br>
+Несмотря на то, что к этому моменту я уже закончил разработку графического движка для одного <font color="#BFBFBF">[</font><font color="gray">впрочем не слишком коммерчески успешного</font><font color="#BFBFBF">]</font> игрового проекта, на меня накатывала апатия и депрессия, и не удивительно — что толку быть разработчиком движка, код которого ты просто перестал понимать (а о возможностях его <font color="#BFBFBF">[</font><font color="gray">графического движка</font><font color="#BFBFBF">]</font> совершенствования и говорить нечего).<br> <a href="https://habr.com/ru/post/696654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696654#habracut">Читать дальше &rarr;</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 21:00:30 GMT</pubDate>
+      <dc:creator>alextretyak</dc:creator>
+      <category><![CDATA[Программирование]]></category>
+      <category><![CDATA[синтаксис]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Дайджест недели от Apple Pro Weekly News (24.10 – 30.10.22)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696652/</guid>
+      <link>https://habr.com/ru/post/696652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696652</link>
+      <description><![CDATA[<p>Вышли в релиз новые системы, обновления софта и облачных продуктов от Apple, сколько заработала компания и почему поднимают цены на сервисы, будет ли USB-C в новых iPhone, когда свежие мощные MacBook Pro и другие слухи. Прошедшая неделя вышла очень богатой на события из яблочного мира, приступим к новостям!</p><p></p> <a href="https://habr.com/ru/post/696652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696652#habracut">Перейти к новостям</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 20:54:41 GMT</pubDate>
+      <dc:creator>aaplpro</dc:creator>
+      <category><![CDATA[Гаджеты]]></category><category><![CDATA[Компьютерное железо]]></category><category><![CDATA[Смартфоны]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[Apple]]></category><category><![CDATA[iOS]]></category><category><![CDATA[iPhone]]></category><category><![CDATA[iPad]]></category><category><![CDATA[Mac]]></category><category><![CDATA[iCloud]]></category><category><![CDATA[Developer]]></category><category><![CDATA[App Store]]></category><category><![CDATA[Bounty]]></category><category><![CDATA[Слухи]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Как аккуратно записать гифку с консоли]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696564/</guid>
+      <link>https://habr.com/ru/post/696564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696564</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/lf/my/rb/lfmyrbqtekh4bgrbgtvc57zirs4.png" width="780"><br>
+</p><br>
+<p>Помните, как вы пытались записать демонстрацию CLI-инструмента? К старту <u><a href="https://skillfactory.ru/devops-ingineer?utm_source=habr&amp;utm_medium=habr&amp;utm_campaign=article&amp;utm_content=coding_devops_311022&amp;utm_term=lead" rel="nofollow noopener noreferrer">нашего курса по DevOps</a></u> делимся материалом о том, как записывать гифки с консоли кодом, чтобы тестировать сборки ПО и показывать ваши консольные инструменты.</p> <a href="https://habr.com/ru/post/696564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696564#habracut">Читать дальше &rarr;</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 20:47:05 GMT</pubDate>
+      <dc:creator>honyaki</dc:creator>
+      <category><![CDATA[Блог компании SkillFactory]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Тестирование IT-систем]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[DevOps]]></category>
+      <category>skillfactory</category><category>командная строка</category><category>VHS</category><category>записи</category><category>инструменты</category><category>документация</category><category>демонстрации</category><category>демо</category><category>код</category><category>конвейеры</category>
+    </item>
+
+
+
+    <item>
+      <title><![CDATA[PostgreSQL: пример использования диапазонного типа данных при расчете коэффициента возраст-стаж в ОСАГО]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696628/</guid>
+      <link>https://habr.com/ru/post/696628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696628</link>
+      <description><![CDATA[<p>В этой статье рассматриваются преимущества такого редко используемого и, на мой взгляд, незаслуженно обойденного вниманием типа данных, как диапазон. Мы сначала спроектируем структуру базы для хранения коэффициента возраст-стаж при расчете стоимости полиса ОСАГО в рамках привычной многим MySQL. Затем перепроектируем под PostgreSQL и посмотрим, как выглядят sql запросы в обоих случаях. И в финале сравним, какие преимущества дает нам использование диапазонов.</p><p>Заметка адресована как пользователям MySQL, так и пользователям PostgreSQL, которые не работали с таким типом данных в своей практике. Если в вашей предметной области есть работа с диапазонами величин, то этот пост точно для вас.</p> <a href="https://habr.com/ru/post/696628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696628#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 20:22:49 GMT</pubDate>
+      <dc:creator>alekciy</dc:creator>
+      <category><![CDATA[Блог компании REG.RU]]></category><category><![CDATA[PostgreSQL]]></category>
+      <category><![CDATA[postgresql]]></category><category><![CDATA[range]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Как я подключил Sign in with Apple — Apple авторизацию. Подробный гайд]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696646/</guid>
+      <link>https://habr.com/ru/post/696646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696646</link>
+      <description><![CDATA[<p>Салют, меня зовут Макс Нечаев, я занимаюсь продуктовой разработкой (iOS Developer). Эта небольшая статья расскажет вам, как подключить Apple Sign In (авторизация через Apple) в ваше iOS приложение. Плюс расскажу некоторые edge кейсы технологии.</p><p></p> <a href="https://habr.com/ru/post/696646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696646#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 20:12:13 GMT</pubDate>
+      <dc:creator>maxnechaev</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Swift]]></category>
+      <category><![CDATA[авторизация]]></category><category><![CDATA[apple sign in]]></category><category><![CDATA[apple авторизация]]></category><category><![CDATA[sign in with apple]]></category><category><![CDATA[ios авторизация]]></category><category><![CDATA[login screen]]></category><category><![CDATA[макс нечаев]]></category><category><![CDATA[максим нечаев]]></category><category><![CDATA[maksim nechaev]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Ирландский праздник Саунь (или всё про Хеллоуин)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696638/</guid>
+      <link>https://habr.com/ru/post/696638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696638</link>
+      <description><![CDATA[<p>Итак, наступает ноябрь, и многие уже привычно для России вспоминают про популярный зарубежный праздник Хеллоуин, широко отмечаемый теперь и в наших широтах. Популярность этого праздника приводит к большому количеству выдумок и небылиц вокруг него, поэтому давайте я попробую рассказать о его истоках с исторической перспективы. В общем, хеллоуинский кот получил ориентировку на незаконный оборот исторических фейков и выдвигается на место преступления. Мужайтесь, други, это лонгрид.  </p> <a href="https://habr.com/ru/post/696638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696638#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 19:52:37 GMT</pubDate>
+      <dc:creator>Catx2</dc:creator>
+      <category><![CDATA[Чулан]]></category>
+      <category><![CDATA[хеллоуин]]></category><category><![CDATA[праздники]]></category><category><![CDATA[календарь]]></category><category><![CDATA[ирландия]]></category><category><![CDATA[кельты]]></category><category><![CDATA[история]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Топ-50 онлайн-ресурсов для обучения детей основам программирования на Python]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696634/</guid>
+      <link>https://habr.com/ru/post/696634/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696634</link>
+      <description><![CDATA[<p>Владение языком Python станет прекрасным активом будущего программиста. Если ваш ребенок увлекается программированием, то процесс обучения можно разнообразить с помощью полезных видео, обучающих игр, вступления в тематические сообщества и многого другого. В этой статье мы собрали полезные ресурсы по Python и поделили их по категориям.</p> <a href="https://habr.com/ru/post/696634/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696634#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 19:28:58 GMT</pubDate>
+      <dc:creator>Vadim_Bordik</dc:creator>
+      <category><![CDATA[Python]]></category><category><![CDATA[Программирование]]></category>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[python]]></category><category><![CDATA[ресурсы по Python]]></category><category><![CDATA[программирование для детей]]></category><category><![CDATA[для детей]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Офис мечты или статья о том, как выглядит офис компании Авито]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696630/</guid>
+      <link>https://habr.com/ru/post/696630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696630</link>
+      <description><![CDATA[<p>Я всегда, как и многие другие люди, представлял себе офис крупных компаний обычным местом без какого либо креатива и разнообразия. Для меня слово офис ассоциировалась с местом куда люди не хотят идти, и откуда с удовольствием уходят. <br>Но мне выпала возможность посетить офис Авито.</p><p></p> <a href="https://habr.com/ru/post/696630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696630#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 18:52:50 GMT</pubDate>
+      <dc:creator>neeckeech</dc:creator>
+      <category><![CDATA[Офисы IT-компаний]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[Авито]]></category><category><![CDATA[офис]]></category><category><![CDATA[офис мечты]]></category><category><![CDATA[экскурсия]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Окружен, но не сломлен. Музыкальная Nokia конца нулевых прямиком из мусорки]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696626/</guid>
+      <link>https://habr.com/ru/post/696626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696626</link>
+      <description><![CDATA[<p>Крупная часть моих читателей когда-либо пользовалась телефонами Nokia. Кто-то обожает Symbian за её огромную кастомизируемость, кто-то любит s40 за хорошую совместимость с j2me играми и gravity defied, ну а кто-то покупал Nokia из-за одной надписи:&nbsp;<strong>XpressMusic</strong>. Сегодняшний девайс - Nokia 5310, прошёл через множество испытаний прошлых владельцев, был окирпичен но всё равно дошёл до наших дней с боевыми ранами. Живой ли он сейчас? Маркетинг ли бренд&nbsp;<strong>XpressMusic</strong>? Сегодня и узнаем!</p> <a href="https://habr.com/ru/post/696626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696626#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 18:10:13 GMT</pubDate>
+      <dc:creator>bodyawm</dc:creator>
+      <category><![CDATA[Смартфоны]]></category>
+      <category><![CDATA[телефоны]]></category><category><![CDATA[ретро]]></category><category><![CDATA[nokia]]></category><category><![CDATA[нокиа]]></category><category><![CDATA[s40]]></category><category><![CDATA[xpressmusic]]></category><category><![CDATA[walkman]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Как мы организовали поток входящих запросов от клиентов и снизили время их обработки с 12 до 7 дней]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696614/</guid>
+      <link>https://habr.com/ru/post/696614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696614</link>
+      <description><![CDATA[<p>Сталкивались ли вы хоть раз с ситуацией, когда входящий поток работы огромный, заказчиков много, приоритеты непонятны, при этом на той стороне провода клиент ждет решения проблемы?</p><p>Меня зовут Андрей Сидоренко и я главный специалист по процессному управлению в REG.RU. Я хотел бы рассказать о том, как мы решали вполне типичную для большинства крупных IT-компаний проблему.&nbsp;</p> <a href="https://habr.com/ru/post/696614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696614#habracut">Поехали</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 17:30:42 GMT</pubDate>
+      <dc:creator>AndyJack</dc:creator>
+      <category><![CDATA[Блог компании REG.RU]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление продуктом]]></category>
+      <category><![CDATA[канбан метод]]></category><category><![CDATA[управление потоком]]></category><category><![CDATA[kanban]]></category><category><![CDATA[разработка]]></category><category><![CDATA[гибкие подходы]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Индивидуальный план развития разработчика в Сравни]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696618/</guid>
+      <link>https://habr.com/ru/post/696618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696618</link>
+      <description><![CDATA[<p>Привет, Хабр! Меня зовут Владимир Каратаев, я руковожу группой разработки в проектах страхования компании Сравни. Проще говоря, я тимлид. Моя команда разрабатывает четыре сервиса: страхование ипотеки, недвижимости, путешествий, а также страхование от несчастного случая.</p><p>Про ИПР (индивидуальный план развития) можно найти немало материалов в интернете. Зачастую там представлены довольно общие формулировки, либо труднореализуемые предложения. Поэтому сегодня я хотел бы рассказать, каким может быть ИПР на примере того, как у нас в компании устроен процесс развития сотрудников. Простые, «приземленные» советы.&nbsp;</p><p>Возможно, кому-то они покажутся даже излишне простыми и очевидными. Но тогда почему, при всей очевидности, их мало кто применяет? Почему чаще всего можно наблюдать выхолащивание, вырождение процесса ИПР в очередной бюрократический, никому не интересный и, в конечном итоге, бесполезный процесс?</p><p>В общем, надеюсь, статья будет ценной для тимлидов при внедрении ИПР в их компаниях, а сам процесс — несложным. В конце я поделюсь ссылкой на шаблон таблицы, которую мы используем для отслеживания прогресса по ИПР.</p> <a href="https://habr.com/ru/post/696618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696618#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 17:23:55 GMT</pubDate>
+      <dc:creator>BlackMustang</dc:creator>
+      <category><![CDATA[Блог компании Сравни]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[карьера]]></category><category><![CDATA[развитие разработчика]]></category><category><![CDATA[тимлиды]]></category><category><![CDATA[работа в команде]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[recovery mode] Изучаем инструменты для работы с ARP протоколом]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696612/</guid>
+      <link>https://habr.com/ru/post/696612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696612</link>
+      <description><![CDATA[<p>Статья расскажет об очень простом протоколе, который может быть использован для атак на сети. Рассмотрим из чего состоит протокол и какие инструменты есть для работы с ним.</p> <a href="https://habr.com/ru/post/696612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696612#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 16:52:15 GMT</pubDate>
+      <dc:creator>GolovinDS</dc:creator>
+      <category><![CDATA[Блог компании OTUS]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Сетевые технологии]]></category>
+      <category><![CDATA[arp]]></category><category><![CDATA[сети]]></category><category><![CDATA[информационная безопасность]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Падающие проды, соискатели-мошенники, нейросети: собрали страхи разработчиков]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696604/</guid>
+      <link>https://habr.com/ru/post/696604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696604</link>
+      <description><![CDATA[<p><em>В честь Хэллоуина мы поговорили о страхах с разработчиками, директорами по продукту, техническими топ-менеджерами и другими нашими друзьями и коллегами. Оказалось, они не боятся самой страшной ночи в году, зато имеют множество профессиональных страшилок за плечами. Что они нам рассказали?</em></p> <a href="https://habr.com/ru/post/696604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696604#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 16:20:12 GMT</pubDate>
+      <dc:creator>habrahuser</dc:creator>
+      <category><![CDATA[Блог компании Skillbox]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Управление продуктом]]></category>
+      <category><![CDATA[хеллоуин]]></category><category><![CDATA[страхи разработчиков]]></category><category><![CDATA[разработка]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Отец авиатора: как Говард Хьюз-старший сколотил свое состояние на патентах]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696572/</guid>
+      <link>https://habr.com/ru/post/696572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696572</link>
+      <description><![CDATA[<p>Все мы знаем историю Говарда Хьюза-младшего, американского миллиардера, изобретателя, киномагната и очень экстравагантного человека, чей образ запечатлел на большом экране Леонардо ди Каприо в оскароносном фильме Мартина Скорсезе «Авиатор». Но мало кто вспоминает его отца — Говарда Хьюза-старшего, менее эпатажного, но не менее выдающегося изобретателя и предпринимателя.&nbsp;Рассказываем о нем в нашей статье.</p><p></p> <a href="https://habr.com/ru/post/696572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696572#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 16:00:02 GMT</pubDate>
+      <dc:creator>ko_ya</dc:creator>
+      <category><![CDATA[Блог компании Онлайн Патент]]></category><category><![CDATA[Читальный зал]]></category><category><![CDATA[Патентование]]></category><category><![CDATA[Научно-популярное]]></category>
+      <category><![CDATA[изобретение]]></category><category><![CDATA[патент]]></category><category><![CDATA[авиация]]></category><category><![CDATA[нефть]]></category><category><![CDATA[хьюз]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Разговорный английский для онлайн-встреч: 40 полезных фраз]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696598/</guid>
+      <link>https://habr.com/ru/post/696598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696598</link>
+      <description><![CDATA[<p>После 2020 года каждый из нас проходил собеседование на работу дистанционно или учился на курсах, и тем более участвовал в онлайн-встречах. Не все из них проходили плодотворно или так, как хотелось бы, а если добавить английский как язык общения, приправив его неуверенностью в своих силах, градус стресса поднимался и уже через полчаса голова закипела. Знакомая ситуация?</p><p>Я преподаю английский для делового онлайн-общения более 15 лет и готова поделиться важными фразами на английском языке, которые помогают студентам провести встречу без лишнего напряжения и сосредоточиться на теме встречи, а не на волнении о своих коммуникативных способностях. Я просмотрела более 200 видео из IT-каналов на Youtube, чтобы выбрать 40 актуальных фраз, которые будут уместны при проведении встречи и внезапных технических проблемах. Англоговорящие коллеги с легкостью поймут вас и вы будете чувствовать себя увереннее.&nbsp;</p> <a href="https://habr.com/ru/post/696598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696598#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 15:54:32 GMT</pubDate>
+      <dc:creator>kmoseenk</dc:creator>
+      <category><![CDATA[Блог компании OTUS]]></category><category><![CDATA[Изучение языков]]></category>
+      <category><![CDATA[коммуникации]]></category><category><![CDATA[онлайн-встречи]]></category><category><![CDATA[разговорный английский]]></category><category><![CDATA[лексика]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Red Faction 2 (2002)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696596/</guid>
+      <link>https://habr.com/ru/post/696596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696596</link>
+      <description><![CDATA[<p>Если вам понравилась Red Faction 1, то игра в Red Faction 2… вас скорее всего разочарует... Сейчас объясню почему. Начну с сюжета. Я ожидал, что события в Red Faction 2 расскажут нам о том, что происходило на Марсе дальше после победы восстания и прибытия сил EDF (Earth Defence Force). Но сюжет игры резко переносит нас на Землю через неопределённое время в будущем после событий в Red Faction 1*. Помните злого сумасшедшего учёного Акселя Чапека, который ставил опыты на шахтёрах? Он разрабатывал какие-то супер-пупер нанотехнологии. После краха корпорации Ультор эти технологии переходят к Earth Defence Force. У них же эти технологии воруют другие вооружённые групировки на Земле. Игра начинается с того, что вам, в качестве бойца спецназа антиутопического, аля «1984», государства «Содружество», поручается добыть эти технологии по приказу канцлера Виктора Сопота.</p> <a href="https://habr.com/ru/post/696596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696596#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 15:53:24 GMT</pubDate>
+      <dc:creator>skepticalpatient</dc:creator>
+      <category><![CDATA[Игры и игровые консоли]]></category>
+      <category><![CDATA[игры]]></category><category><![CDATA[шутеры]]></category><category><![CDATA[шутеры от первого лица]]></category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[Разбор таска Dirty logs с M*CTF 2022 или как желание пихнуть кавычку помогает решать CTF]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/696586/</guid>
+      <link>https://habr.com/ru/post/696586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696586</link>
+      <description><![CDATA[<p>Прошел почти год с того момента, как я написал свою первую <a href="https://habr.com/ru/post/589433/" rel="noopener noreferrer nofollow">сатью</a> на Хабр. Начал этот путь именно с разбора задания MCTF 2021. Решил продолжить традицию в этом году и написать writeup на интересный таск с MCTF 2022.</p><p></p> <a href="https://habr.com/ru/post/696586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=696586#habracut">Читать далее</a>]]></description>
+
+      <pubDate>Mon, 31 Oct 2022 15:33:00 GMT</pubDate>
+      <dc:creator>toxella</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[CTF]]></category>
+      <category><![CDATA[ctf]]></category><category><![CDATA[mctf]]></category><category><![CDATA[burpsuite]]></category><category><![CDATA[web]]></category><category><![CDATA[injection]]></category><category><![CDATA[кавычки]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
